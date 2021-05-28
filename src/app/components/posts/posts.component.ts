@@ -23,10 +23,6 @@ export class PostsComponent implements OnInit {
     })
 
 
-    // this.httpClient.get<Post[]>('http://jsonplaceholder.typicode.com/posts').subscribe(value => {
-    //   this.posts = value;
-    //
-    // })
   }
 
 }
